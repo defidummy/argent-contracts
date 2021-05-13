@@ -20,7 +20,7 @@ import "./BaseFilter.sol";
 
 /**
  * @title GroWithdrawFilter
- * @notice Filter used for withdrawals from Gro Protocol
+ * @notice Filter used for withdrawals from Gro Protocol (via WithdrawHandler.sol)
  * @author Olivier VDB - <olivier@argent.xyz>
  */
 contract GroWithdrawFilter is BaseFilter {

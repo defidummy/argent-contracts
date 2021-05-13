@@ -20,7 +20,7 @@ import "./BaseFilter.sol";
 
 /**
  * @title GroDepositFilter
- * @notice Filter used for deposits to Gro Protocol
+ * @notice Filter used for deposits to Gro Protocol (via DepositHandler.sol)
  * @author Olivier VDB - <olivier@argent.xyz>
  */
 contract GroDepositFilter is BaseFilter {
